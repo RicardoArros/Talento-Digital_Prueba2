@@ -131,6 +131,7 @@ h3 {
 .main {
     display: flex;
     flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .main__section {
